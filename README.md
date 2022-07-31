@@ -5,7 +5,7 @@ Some description
 
 Importance of this
 - what a life
-- I am frosh
+- I am Timothy Augustine
 - No one like me
 
 # About me
