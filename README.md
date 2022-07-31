@@ -9,4 +9,4 @@ Importance of this
 - No one like me
 
 # About me
-some descriptionj
+some description about me would be added soon enough
